@@ -1,3 +1,3 @@
-variables "ec2_instance"{
+variable "ec2_instance"{
     default = "t2.micro"
 }
